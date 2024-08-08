@@ -1,0 +1,4 @@
+.venv
+.vscode
+data/in/tables/kbc_schedule.csv
+data/in/tables/kbc_notification_subscription.csv

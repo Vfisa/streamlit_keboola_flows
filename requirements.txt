@@ -1,0 +1,8 @@
+pandas
+streamlit
+requests
+plotly
+keboola-streamlit
+keboola.component
+matplotlib
+datetime
